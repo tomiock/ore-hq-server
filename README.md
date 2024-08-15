@@ -1,6 +1,7 @@
 # Ore Pool Server
+This is an ore (crypto token) server.
 
-## With `Nix` Shell
+## Building With `Nix` Shell
 
 Install `Nix` using:
 ```
